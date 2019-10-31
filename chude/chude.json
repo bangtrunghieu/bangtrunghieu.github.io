@@ -1,17 +1,17 @@
 {
-  "url":"ádas",
+  "url":"https://bangtrunghieu.github.io/bangtrunghieu.github.io/tuvung/",
   "data": 
   [
     {
-      "id" : 1,
+      "nameTitle" : "chim",
       "title": "Từ vựng tiếng Anh về Các loài chim"
     },
      {
-      "id" : 2,
+      "nameTitle" : "ca",
       "title": "Từ vựng tiếng Anh về Các loài cá"
     },
      {
-      "id" : 3,
+      "nameTitle" : "ga",
       "title": "Từ vựng tiếng Anh về Các loài gà"
     }
     
