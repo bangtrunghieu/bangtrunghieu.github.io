@@ -1,0 +1,57 @@
+{
+	
+  "chude": "Từ vựng tiếng Anh về Các loài chim",
+  "data" : [
+   { 
+    "tuvung" : "owl",
+    "phienam" : "/aʊl/",
+    "nghia" : "cú"
+   },
+    { 
+    "tuvung" : "penguin",
+    "phienam" : "/ˈpeŋɡwɪn/",
+    "nghia" : "chim cánh cụt"
+   },
+    { 
+    "tuvung" : "turkey",
+    "phienam" : "/ˈtɜːrki/",
+    "nghia" : "gà tây"
+   },
+    { 
+    "tuvung" : "parrot",
+    "phienam" : "/ˈpærət/",
+    "nghia" : "vẹt"
+   },
+    { 
+    "tuvung" : "rooster",
+    "phienam" : "/ˈruːstər/",
+    "nghia" : "gà trống nhà"
+   },
+    { 
+    "tuvung" : "vulture",
+    "phienam" : "/'vʌltʃə/",
+    "nghia" : "chim kền kền"
+   },
+    { 
+    "tuvung" : "penguin",
+    "phienam" : "/ˈpeŋɡwɪn/",
+    "nghia" : "chim cánh cụt"
+   },
+    { 
+    "tuvung" : "duck",
+    "phienam" : "/dʌk/",
+    "nghia" : "vịt"
+   },
+    { 
+    "tuvung" : "ostrich",
+    "phienam" : "/ˈɑːstrɪtʃ/",
+    "nghia" : "đà điểu"
+   },
+    {
+    "tuvung" : "pigeon",
+    "phienam" : "/ˈpɪdʒɪn/",
+    "nghia" : "chim bồ câu"
+   }
+  ]
+  
+}
