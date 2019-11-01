@@ -3,15 +3,15 @@
   "data": 
   [
     {
-      "nameTitle" : "chim",
+      "file" : "chim",
       "title": "Từ vựng tiếng Anh về Các loài chim"
     },
      {
-      "nameTitle" : "ca",
+      "file" : "ca",
       "title": "Từ vựng tiếng Anh về Các loài cá"
     },
      {
-      "nameTitle" : "ga",
+      "file" : "ga",
       "title": "Từ vựng tiếng Anh về Các loài gà"
     }
     
