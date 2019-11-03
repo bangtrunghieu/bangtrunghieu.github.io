@@ -1,0 +1,52 @@
+{
+	
+  "chude": "Từ vựng tiếng Anh về Các con vật khi còn nhỏ",
+  "data" : [
+   { 
+    "tuvung" : "foal"
+    "phienam" : "/foʊl/",
+    "nghia" : "ngựa con"
+   },
+    { 
+    "tuvung" : "kid",
+    "phienam" : "/ˈpeŋɡwɪn/",
+    "nghia" : "chim cánh cụt"
+   },
+    { 
+    "tuvung" : "gosling",
+    "phienam" : "/ˈɡɑːzlɪŋ/",
+    "nghia" : "ngỗng con"
+   },
+    { 
+    "tuvung" : "duckling",
+    "phienam" : "/ˈdʌklɪŋ/",
+    "nghia" : "vịt con"
+   },
+    { 
+    "tuvung" : "chick",
+    "phienam" : "/tʃɪk/",
+    "nghia" : "gà con"
+   },
+    { 
+    "tuvung" : "piglet",
+    "phienam" : "/ˈpɪɡlət/",
+    "nghia" : "lợn con"
+   },
+    { 
+    "tuvung" : "kitten",
+    "phienam" : "/ˈkɪtn/",
+    "nghia" : "mèo con"
+   },
+    { 
+    "tuvung" : "fawn",
+    "phienam" : "/fɔːn/",
+    "nghia" : "nai con"
+   },
+    { 
+    "tuvung" : "joey",
+    "phienam" : "/ˈdʒoʊi/",
+    "nghia" : "kangaroo con"
+   }
+  ]
+  
+}
